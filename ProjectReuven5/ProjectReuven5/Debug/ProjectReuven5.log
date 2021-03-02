@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\1\source\repos\projectreuven5\projectreuven5\source.cpp(83): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\1\source\repos\projectreuven5\projectreuven5\source.cpp(84): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectReuven5.vcxproj -> C:\Users\1\source\repos\ProjectReuven5\Debug\ProjectReuven5.exe

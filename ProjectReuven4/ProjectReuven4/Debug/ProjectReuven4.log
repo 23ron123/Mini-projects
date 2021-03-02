@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\1\source\repos\projectreuven4\projectreuven4\source.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\1\source\repos\projectreuven4\projectreuven4\source.cpp(63): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ProjectReuven4.vcxproj -> C:\Users\1\source\repos\ProjectReuven4\Debug\ProjectReuven4.exe

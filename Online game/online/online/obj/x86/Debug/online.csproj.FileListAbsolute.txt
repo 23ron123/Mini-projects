@@ -1,0 +1,175 @@
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\most important projects\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\most important projects\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\most important projects\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\Yoda\Desktop\most important projects\online\online\obj\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\most important projects\online\online\obj\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\obj\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\desktop2\most important projects\online\online\obj\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\Yoda\Desktop\online\online\obj\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online\online\obj\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\online2\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\online2\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\online2\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\Yoda\Desktop\online2\online\online\obj\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online2\online\online\obj\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online2\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\obj\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online2\online game 4 yom shlishi\online\online\obj\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\obj\x86\Debug\online.exe
+C:\Users\Yoda\Desktop\online2\online game 4 MICHLALA\online\online\obj\x86\Debug\online.pdb
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\Content\bg.xnb
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\Content\roki.xnb
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\online.exe
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\online.pdb
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\obj\x86\Debug\online.csprojAssemblyReference.cache
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\obj\x86\Debug\online.csproj.CoreCompileInputs.cache
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\obj\x86\Debug\online.csproj.CopyComplete
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\obj\x86\Debug\online.exe
+C:\Users\valer\Downloads\online game 4 MICHLALA\online game 4 MICHLALA\online\online\obj\x86\Debug\online.pdb

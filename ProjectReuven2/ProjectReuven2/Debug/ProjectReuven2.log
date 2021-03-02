@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\c\projectreuven2\projectreuven2\source.cpp(73): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ProjectReuven2.vcxproj -> D:\C\ProjectReuven2\Debug\ProjectReuven2.exe
